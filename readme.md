@@ -3,13 +3,7 @@
 - 🖥️ Técnico em Informática JR
 - 💻 Estudando Front-End
 
-<a href="https://github.com/guisimonetti/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guisimonetti" />
-</a>
-
-<a href="https://github.com/guisimonetti/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guisimonetti&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisimonetti&layout=compact&langs_count=7&theme=dracula"/>
 
 <div style="display: inline_block"> <br> 
 
