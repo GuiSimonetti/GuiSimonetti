@@ -1,7 +1,7 @@
 ## Olá! Sou o Guilherme Simonetti
 
 - 🖥️ Técnico em Informática JR
-- 💻 Estudando Front-End
+- 💻 Engenharia de Software 1/7
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guisimonetti&layout=compact&langs_count=7&theme=dracula"/>
 
